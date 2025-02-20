@@ -30,7 +30,7 @@ body{
 
 }
 .logo{
-    background-image: url("/Razorpay_logo.webp");
+    background-image: url("Razorpay_logo.webp");
     background-size:cover;
 
     height:90px;
@@ -618,7 +618,7 @@ p:hover{
 
 }
 .paymentgateway120 {
-    background-image: url("/Screenshot 2025-02-14 at 1.01.59 AM.png");  /* Check the file path */
+    background-image: url("Screenshot 2025-02-14 at 1.01.59 AM.png");  /* Check the file path */
     background-size: contain;
     background-repeat: no-repeat;  /* Corrected from 'none' to 'no-repeat' */
     height: 250px;
@@ -652,7 +652,7 @@ p:hover{
 
 }
 .paymentgateway56 {
-    background-image: url("/Screenshot 2025-02-14 at 1.07.35 AM.png");  /* Check the file path */
+    background-image: url("Screenshot 2025-02-14 at 1.07.35 AM.png");  /* Check the file path */
     background-size: contain;
     background-repeat: no-repeat;  /* Corrected from 'none' to 'no-repeat' */
     height: 250px;
